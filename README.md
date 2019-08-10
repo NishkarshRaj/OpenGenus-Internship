@@ -12,3 +12,5 @@ Published articles during my intern @OpenGenus
 [GitHub link](https://github.com/OpenGenus/html_lists)
 
 [4. HTML Elements: Class and Id attribute](https://iq.opengenus.org/p/381f01f6-ffb8-42d2-9749-2cf17e37c1c1/)
+
+[5. HTML Links with targets](https://iq.opengenus.org/p/5c000ffb-2543-4d08-b164-bb7425080b60/)
