@@ -16,3 +16,5 @@ Published articles during my intern @OpenGenus
 [5. HTML Links with targets](https://iq.opengenus.org/p/5c000ffb-2543-4d08-b164-bb7425080b60/)
 
 [6. CSS Elements: Border](https://iq.opengenus.org/p/37cb4569-ddb5-42df-a037-4eaa0467f9a1/)
+
+[GitHub link](https://github.com/OpenGenus/cosmos/tree/master/code/html)
