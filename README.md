@@ -23,3 +23,5 @@ Published articles during my intern @OpenGenus
 [GitHub link](https://github.com/OpenGenus/cosmos/tree/master/code/html)
 
 [7. CSS Elements: Margin](https://iq.opengenus.org/p/3d903d6a-9078-4e1a-919b-bd4545f92d19/)
+
+[8. CSS Elements: Padding](https://iq.opengenus.org/p/28def0b3-dffb-487f-9533-8b31999f903f/)
