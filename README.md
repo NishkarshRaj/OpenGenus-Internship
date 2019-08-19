@@ -24,4 +24,45 @@ Published articles during my intern @OpenGenus
 
 [7. CSS Elements: Margin](https://iq.opengenus.org/p/3d903d6a-9078-4e1a-919b-bd4545f92d19/)
 
+[GitHub link](https://github.com/OpenGenus/cosmos/tree/master/code/html/css/Margin)
+
 [8. CSS Elements: Padding](https://iq.opengenus.org/p/28def0b3-dffb-487f-9533-8b31999f903f/)
+
+# How to collaborate
+
+## Fork a repository
+
+```git
+$ git clone "original repo url"
+$ cd <og repo>
+$ git fork
+```
+
+## Synchronizing forked repository with original repository
+
+```git
+$ git remote add upstream "<url of upstream>"
+$ git fetch upstream
+$ git checkout master
+$ git merge upstream/master
+$ git push -f origin master
+```
+
+## Creating a workflow on another branch
+
+```git
+$ git branch <feature_branch>
+$ git checkout <feature_branch>
+```
+
+Do your work on this branch and then perform following steps
+
+```
+git add <files>
+git commit -m "commit message"
+git push -f origin <feature_branch>
+```
+
+## Creating pull request
+
+
