@@ -58,9 +58,9 @@ $ git checkout <feature_branch>
 Do your work on this branch and then perform following steps
 
 ```
-git add <files>
-git commit -m "commit message"
-git push -f origin <feature_branch>
+$ git add <files>
+$ git commit -m "commit message"
+$ git push -f origin <feature_branch>
 ```
 
 ## Creating pull request
@@ -71,14 +71,14 @@ git push -f origin <feature_branch>
 
 **Step 1: Merge changes on local machine**
 ```git
-git fetch origin
-git checkout -b <branchname> origin/<branchname>
-git merge master
+$ git fetch origin
+$ git checkout -b <branchname> origin/<branchname>
+$ git merge master
 ```
 
 **Step 2: Merge the changes and update on GitHub.**
 ```git
-git checkout master
-git merge --no-ff <branchname>
-git push origin master
+$ git checkout master
+$ git merge --no-ff <branchname>
+$ git push origin master
 ```
