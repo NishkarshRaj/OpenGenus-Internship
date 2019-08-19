@@ -70,13 +70,15 @@ git push -f origin <feature_branch>
 ## Merge a pull request (Code review if owner of repository)
 
 **Step 1: Merge changes on local machine**
+```git
 git fetch origin
 git checkout -b <branchname> origin/<branchname>
 git merge master
+```
 
 **Step 2: Merge the changes and update on GitHub.**
-
+```git
 git checkout master
 git merge --no-ff <branchname>
 git push origin master
-
+```
