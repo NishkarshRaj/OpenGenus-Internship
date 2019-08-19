@@ -28,6 +28,8 @@ Published articles during my intern @OpenGenus
 
 [8. CSS Elements: Padding](https://iq.opengenus.org/p/28def0b3-dffb-487f-9533-8b31999f903f/)
 
+[9. CSS Positioning: Z-index](https://iq.opengenus.org/p/b0438af0-9030-4674-84b9-b41535e9405b/)
+
 # How to collaborate
 
 ## Fork a repository
