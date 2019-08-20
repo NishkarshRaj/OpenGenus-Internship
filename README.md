@@ -1,4 +1,4 @@
-# OpenGenus-Internship
+# OpenGenus-Internship :smile:
 
 [Link to my Blogs @ OpenGenus](https://iq.opengenus.org/author/nishkarsh/)
 
