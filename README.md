@@ -30,6 +30,8 @@ Published articles during my intern @OpenGenus
 
 [9. CSS Positioning: Z-index](https://iq.opengenus.org/p/b0438af0-9030-4674-84b9-b41535e9405b/)
 
+[10. CSS Positioning](https://iq.opengenus.org/p/09ad1629-d6b8-44f3-a67d-786aa0d8af90/)
+
 # How to collaborate
 
 ## Fork a repository
