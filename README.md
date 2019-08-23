@@ -34,6 +34,8 @@ Published articles during my intern @OpenGenus
 
 [10. CSS Positioning](https://iq.opengenus.org/p/09ad1629-d6b8-44f3-a67d-786aa0d8af90/)
 
+[11. Apache Maven=> Create a Java project using Command line](https://iq.opengenus.org/p/269eac7c-0d17-49f0-885f-4a60eeeebb89/)
+
 # How to collaborate
 
 ## Fork a repository
