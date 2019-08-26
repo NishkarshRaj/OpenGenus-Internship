@@ -36,6 +36,8 @@ Published articles during my intern @OpenGenus
 
 [11. Apache Maven=> Create a Java project using Command line](https://iq.opengenus.org/p/269eac7c-0d17-49f0-885f-4a60eeeebb89/)
 
+[12. Sidebar implementation in HTML](https://iq.opengenus.org/p/ffcc4c42-2a26-4734-a9d8-8c46872f1e96/)
+
 # How to collaborate
 
 ## Fork a repository
