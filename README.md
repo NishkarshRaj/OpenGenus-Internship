@@ -38,6 +38,8 @@ Published articles during my intern @OpenGenus
 
 [12. Sidebar implementation in HTML](https://iq.opengenus.org/p/ffcc4c42-2a26-4734-a9d8-8c46872f1e96/)
 
+[13. Shell Scripting Basics](https://iq.opengenus.org/p/6243f090-8ebe-408b-9f33-862c6cd34a92/)
+
 # How to collaborate
 
 ## Fork a repository
