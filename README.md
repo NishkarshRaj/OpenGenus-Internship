@@ -40,6 +40,8 @@ Published articles during my intern @OpenGenus
 
 [13. Shell Scripting Basics](https://iq.opengenus.org/p/6243f090-8ebe-408b-9f33-862c6cd34a92/)
 
+[GitHub](https://github.com/NishkarshRaj/Automation-using-Shell-Scripts)
+
 # How to collaborate
 
 ## Fork a repository
