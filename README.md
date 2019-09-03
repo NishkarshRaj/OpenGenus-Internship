@@ -42,6 +42,8 @@ Published articles during my intern @OpenGenus
 
 [GitHub](https://github.com/NishkarshRaj/Automation-using-Shell-Scripts)
 
+[14. Shell Scripting Looping Structures]
+
 # How to collaborate
 
 ## Fork a repository
