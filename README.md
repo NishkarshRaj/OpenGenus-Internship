@@ -42,7 +42,9 @@ Published articles during my intern @OpenGenus
 
 [GitHub](https://github.com/NishkarshRaj/Automation-using-Shell-Scripts)
 
-[14. Shell Scripting Looping Structures]
+[14. Shell Scripting Looping Structures](https://iq.opengenus.org/p/46b0da11-d18c-4207-b7c0-1846c491ead0/)
+
+[15. Shell Scripting Control Structures](https://iq.opengenus.org/p/d001de93-adda-47bd-be09-bcfb4eea165e/)
 
 # How to collaborate
 
