@@ -46,6 +46,8 @@ Published articles during my intern @OpenGenus
 
 [15. Shell Scripting Control Structures](https://iq.opengenus.org/p/d001de93-adda-47bd-be09-bcfb4eea165e/)
 
+[16. Functions in Shell Scripts](https://iq.opengenus.org/p/366ad415-f632-409b-a0bb-d381d4826ebb/)
+
 # How to collaborate
 
 ## Fork a repository
