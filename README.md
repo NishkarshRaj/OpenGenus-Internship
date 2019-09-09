@@ -48,6 +48,8 @@ Published articles during my intern @OpenGenus
 
 [16. Functions in Shell Scripts](https://iq.opengenus.org/p/366ad415-f632-409b-a0bb-d381d4826ebb/)
 
+[17. Full Stack Calculator Project using DevOps tools](https://iq.opengenus.org/p/e028bbde-153d-460f-bc27-32bdbf723bd2/)
+
 # How to collaborate
 
 ## Fork a repository
