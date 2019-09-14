@@ -50,6 +50,10 @@ Published articles during my intern @OpenGenus
 
 [17. Full Stack Calculator Project using DevOps tools](https://iq.opengenus.org/p/e028bbde-153d-460f-bc27-32bdbf723bd2/)
 
+[GitHub Link](https://github.com/OpenGenus/calculator_devops)
+
+[18. Automated Backup in Linux](https://iq.opengenus.org/p/92fcff89-71d7-4f53-b62d-2aba4648b7af/)
+
 # How to collaborate
 
 ## Fork a repository
