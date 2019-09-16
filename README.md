@@ -52,6 +52,8 @@ Published articles during my intern @OpenGenus
 
 [18. Automated Backup in Linux](https://iq.opengenus.org/p/92fcff89-71d7-4f53-b62d-2aba4648b7af/)
 
+[19. Crontab Scheduler](https://iq.opengenus.org/p/a74916c8-143f-445f-91cf-073d4af49e5a/)
+
 # How to collaborate
 
 ## Fork a repository
