@@ -54,6 +54,8 @@ Published articles during my intern @OpenGenus
 
 [19. Crontab Scheduler](https://iq.opengenus.org/p/a74916c8-143f-445f-91cf-073d4af49e5a/)
 
+[20. GNU Tape Archiver Compression tool for Unix like systems](https://iq.opengenus.org/p/d909afac-8f3a-4784-9755-b892f565cd32/)
+
 # How to collaborate
 
 ## Fork a repository
