@@ -58,6 +58,10 @@ Published articles during my intern @OpenGenus
 
 [21. SonarQube for Code coverage and Analysis](https://iq.opengenus.org/p/64ed0039-cbd7-47db-8506-291e83bf3b37/)
 
+[22. GitHub Actions](https://iq.opengenus.org/p/d16feff6-8a76-43e1-bc5b-d70048eb046a/)
+
+[GitHub Link](https://github.com/NishkarshRaj/GitHub-Actions-Tutorial)
+
 # How to collaborate
 
 ## Fork a repository
