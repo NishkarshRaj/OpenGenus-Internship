@@ -71,8 +71,8 @@ Published articles during my intern @OpenGenus at [this link](iq.opengenus.org/a
 ## Fork a repository
 
 ```git
-$ git clone "original repo url"
-$ cd <og repo>
+$ git clone "Upstream repository URL"
+$ cd <Repository name>
 $ git fork
 ```
 
