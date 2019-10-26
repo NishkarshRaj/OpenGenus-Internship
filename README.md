@@ -76,7 +76,7 @@ $ cd <Repository name>
 $ git fork
 ```
 
-## Synchronizing forked repository with original repository
+## Synchronizing forked repository with upstream repository (source of fork)
 
 ```git
 $ git remote add upstream "<url of upstream>"
