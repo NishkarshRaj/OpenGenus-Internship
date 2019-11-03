@@ -103,6 +103,8 @@ $ git push -f origin <feature_branch>
 
 ## Creating pull request
 
+Create a pull request from your fork's feature branch to upstream's master branch.
+
 [GitHub Documentation](https://help.github.com/en/articles/creating-a-pull-request)
 
 ## Merge a pull request (Code review if owner of repository)
